@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# But allow these directories and files
+!.gitignore
+!resources/
+!resources/js/
+!resources/js/Components/
+!resources/js/Components/ui/
+!resources/js/Components/ui/*.jsx
