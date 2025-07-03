@@ -1,1 +1,1 @@
-web: php start.php 
+web: php simple-start.php 
